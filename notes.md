@@ -1,4 +1,6 @@
 27  git clone https://github.com/mattpe/git-intro.git 
+28  cd git-intro
+29  ls
 34  git remote -v
 35  git remote help
 39  git init		
@@ -17,3 +19,5 @@
 72  git add .
 71  git commit -m "added notes.md"
 72  git push -u origin main
+
+Did the task of modifying this file
